@@ -14,11 +14,11 @@
  
  <br>
  
-  ### Pra conhecer minha experiencia profissional segue no link abaixo!
+  ### Para conhecer minha experiência profissional segue no link abaixo!
  
 <div> 
    <a href="www.linkedin.com/in/bruno-leôncio-26b4b623" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Brleoncio/Brleoncio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
